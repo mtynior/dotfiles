@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/ZSH-oh--my--zsh-blue.svg" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6362174/55705617-72cb0e80-59df-11e9-8ff6-3c26c55d1a08.png" width="900px">
+</p>
+
 <p align="center">My setup for iTerm2 with ZSH.</p>
 
 ## Installation
