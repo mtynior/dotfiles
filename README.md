@@ -1,4 +1,11 @@
 <h1 align="center">Personal dotfiles</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terminal-iTerm2-success.svg" />
+  <img src="https://img.shields.io/badge/Shell-ZSH-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/ZSH-oh--my--zsh-blue.svg" />
+</p>
+
 <p align="center">My setup for iTerm2 with ZSH.</p>
 
 ## Installation
