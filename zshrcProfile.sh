@@ -1,8 +1,4 @@
-# Set the powerlevel9K theme
-ZSH_THEME="powerlevel9k/powerlevel9k"
-
-# Custom Terminal settings
-
+# Powerlevel9k settings
 POWERLEVEL9K_MODE='nerdfont-complete'
 POWERLEVEL9K_HOME_ICON="\uf015"
 POWERLEVEL9K_HOME_SUB_ICON="\ue5fe"
@@ -20,6 +16,7 @@ POWERLEVEL9K_SHOW_CHANGESET=true
 HYPHEN_INSENSITIVE="true"
 COMPLETION_WAITING_DOTS="true"
 
+# Colorls settings
 alias lc='colorls'
 alias ls='ls -G'
 
