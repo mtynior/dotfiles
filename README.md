@@ -1,5 +1,5 @@
-# Personal dotfiles
-My setup for iTerm2 with ZSH.
+<h1 align="center">Personal dotfiles</h1>
+<p align="center">My setup for iTerm2 with ZSH.</p>
 
 ## Installation
 
