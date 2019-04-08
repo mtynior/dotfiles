@@ -40,7 +40,7 @@ gem install colorls
 ```
 
 ### The `~/.zshrc` profile
-1. Append the content of the `zshrcProfile.sh` to `~/.zshrc.
+1. Append the content of the `zshrcProfile.sh` to `~/.zshrc`.
 2. Set `ZSH_THEME` to the `powerlevel9k`:
 ```bash
 ZSH_THEME="powerlevel9k/powerlevel9k"
