@@ -19,6 +19,7 @@ brew cask install font-hack-nerd-font
 ```
 
 2. Load Profile called `Michal` in the iTerm2 settings.
+3. If iTerm2 doesn't recognize the `Nerd font`, you need to duplicate the `Michal` profile and set the font manually.
 
 ### Oh My Zsh
 Install the [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh):
@@ -36,7 +37,7 @@ export ZSH="/Users/YOUR_USER_GOES_HERE/.oh-my-zsh"
 ### Powerlevel9k
 1. Clone the Powerlevel9k to the `~/oh-my-zsh/custom/themes` folder
 ```
-$ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
 ### Color LS
 [ColorLS](https://github.com/athityakumar/colorls) colorizes the the Terminal's output.
