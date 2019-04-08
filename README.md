@@ -11,6 +11,9 @@ brew tap caskroom/fonts
 brew cask install font-hack-nerd-font
 ```
 
+### iTerm2
+Download and install `iTerm2` from [official site](https://www.iterm2.com/downloads.html).
+
 ### iTerm2 Profile:
 
 1. Copy `iTermProfile.json` to:
