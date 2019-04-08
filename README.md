@@ -27,23 +27,23 @@ Install the [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh):
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-### The `~/.zshrc` profile
-1. Copy and paste the content of the `zshrcProfile.sh` to `~/.zshrc`.
-2. Update the path to ZSH, so it points to your user:
-```bash
-export ZSH="/Users/YOUR_USER_GOES_HERE/.oh-my-zsh"
-```
-
 ### Powerlevel9k
 1. Clone the Powerlevel9k to the `~/oh-my-zsh/custom/themes` folder
 ```
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
-### Color LS
+### Color LS (optional)
 [ColorLS](https://github.com/athityakumar/colorls) colorizes the the Terminal's output.
 I use it for `lc`  and `ls` commands.
 ```
 gem install colorls
+```
+
+### The `~/.zshrc` profile
+1. Append the content of the `zshrcProfile.sh` to `~/.zshrc.
+2. Set `ZSH_THEME` to the `powerlevel9k`:
+```bash
+ZSH_THEME="powerlevel9k/powerlevel9k"
 ```
 
 ### More information
