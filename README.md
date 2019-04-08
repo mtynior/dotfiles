@@ -1,5 +1,5 @@
 # Personal dotfiles
-This is my iTerm setup.
+My setup for iTerm2 with ZSH.
 
 ## Installation
 
