@@ -18,7 +18,7 @@
 Right now, I'm using [Nerd fonts](https://github.com/ryanoasis/nerd-fonts). 
 
 ```
-brew tap caskroom/fonts
+brew tap homebrew/cask-fonts
 brew cask install font-hack-nerd-font
 ```
 
