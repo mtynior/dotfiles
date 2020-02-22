@@ -42,7 +42,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ```
 
 ### Powerlevel9k
-1. Clone the Powerlevel9k to the `~/oh-my-zsh/custom/themes` folder
+1. Clone the Powerlevel9k to the `~/.oh-my-zsh/custom/themes` folder
 ```
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
