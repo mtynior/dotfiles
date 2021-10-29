@@ -19,7 +19,7 @@ Right now, I'm using [Nerd fonts](https://github.com/ryanoasis/nerd-fonts).
 
 ```
 brew tap homebrew/cask-fonts
-brew cask install font-hack-nerd-font
+brew install font-hack-nerd-font
 ```
 
 ### iTerm2
